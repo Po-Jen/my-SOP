@@ -17,4 +17,5 @@ Rachid Alami
 Anne Spalanzani
 David Daney
 Christian Laugier
-Philippe Martinet
+Philippe Martine
+Ludovic Saint-Bauzel
