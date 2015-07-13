@@ -13,12 +13,13 @@
 陳文翔
 黃漢邦
 顏家鈺
+顏炳郎
 Raja Chatila
 Rachid Alami
 Anne Spalanzani
 David Daney
 Christian Laugier
-Philippe Martine
+Philippe Martinet
 Ludovic Saint-Bauzel
 
 ###2.利用Word來編輯教授的著作列表
